@@ -22,5 +22,6 @@ Check the [project board](https://github.com/users/bandilepdlamini/projects/1) t
 ### My Online Profile
 Fell free to take a look at my website, you can get to know me better!
 [Bandile P Dlamini](https://bandilepdlamini.com)
+
 [![N|Solid](https://bandilepdlamini.com/assets/images/logo-transparent2-122x121.png)](https://bandilepdlamini.com)
 
